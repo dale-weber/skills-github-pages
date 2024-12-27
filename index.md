@@ -4,7 +4,7 @@ title: "Welcome to my blog wuwu"
 <header>
 # Hello World!
 
-_Hello World_
+_ Hello World _
 </header>
 
 ## Be baba dee
