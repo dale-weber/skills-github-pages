@@ -1,8 +1,7 @@
-<header>
 ---
 title: "Welcome to my blog wuwu"
 ---
-
+<header>
 # Hello World!
 
 _Hello World_
