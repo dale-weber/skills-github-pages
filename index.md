@@ -1,7 +1,8 @@
----
-title: Welcome to my blog wuwu
----
 <header>
+---
+title: "Welcome to my blog wuwu"
+---
+
 # Hello World!
 
 _Hello World_
